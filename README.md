@@ -10,6 +10,10 @@
 
 ★ :: /p or /pla - platonic
 
+★ :: /ref - reference
+
+✦ :: /lyr - lyric(s)
+
 ✦ :: /pos - positive connotation
 
 ✦ :: /a or /aff - affectionate
